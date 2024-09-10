@@ -5,8 +5,9 @@ Assignment Topic: I was provided with an empty Jupyterlite notebook which I laun
 
 Guidelines for the submission:
 
-There are a total of 25 points possible for this final project, based on the following Exercises: 
-Exercise 2 - Create a markdown cell with the title of the notebook. (1 pt) 
+There are a total of 25 points possible for this final project, based on the following Exercises:
+
+Exercise 2 - Create a markdown cell with the title of the notebook. (1 pt)
 Exercise 3 - Create a markdown cell for an introduction. (1 pt) 
 Exercise 4 - Create a markdown cell to list data science languages. (3 pts) 
 Exercise 5 - Create a markdown cell to list data science libraries. (3 pts) 
